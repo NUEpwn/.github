@@ -39,6 +39,7 @@ Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erkl�
 </details>
 
 <h2 id="rules"><code>$ rules.py</code></h2>
+
 - [x] Es gibt keine dummen Fragen. Jede:r hat mal angefangen.
 - [x] Reskeptvoller Umgang, egal wer du bist, woher du kommst oder was du kannst.
 - [x] Wir hacken nur, was wir dürfen: CTF-Infrastruktur und eigene Testsysteme.
