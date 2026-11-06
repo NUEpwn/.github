@@ -1,7 +1,6 @@
-<div id="header" align="center">
-
 ## Willkommen bei NUEpwn_
 
+<div id="header" align="center">
   <img src="../assets/nuepwn-logo.svg" width="600">
 </div>
 
