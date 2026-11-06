@@ -1,12 +1,13 @@
+<div id="header" align="center">
+
 ## Willkommen bei NUEpwn_
 
-<div id="header" align="center">
   <img src="../assets/nuepwn-logo.svg" width="600">
 </div>
 
 ---
 
-<h3>Übersicht</h1>
+<h3>Übersicht</h3>
 <ul>
   <li><a href="#about">Über uns</a></li>
   <li><a href="#members">Wer darf mitmachen?</a></li>
@@ -17,7 +18,7 @@
 
 ---
 
-<h3 id="about"><code>$ whoami</code></h1>
+<h3 id="about"><code>$ whoami</code></h3>
 
 NUEpwn_ ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
 Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden:
