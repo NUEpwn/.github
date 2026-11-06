@@ -5,7 +5,7 @@
 
 ---
 
-<h1>Übersicht</h1>
+<h3>Übersicht</h1>
 <ul>
   <li><a href="#about">Über uns</a></li>
   <li><a href="#members">Wer darf mitmachen?</a></li>
@@ -14,7 +14,7 @@
   <li><a href="#faq">FAQ</a></li>
 </ul>
 
-<h2 id="about"><code>$ whoami</code></h1>
+<h3 id="about"><code>$ whoami</code></h1>
 
 NUEpwn_ ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
 Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden:
@@ -22,7 +22,7 @@ Webseiten knacken, Binaries reversen, Kryptografie brechen, Spuren in Speicherab
 Wir spielen online bei internationalen CTFs mit, treffen uns aber auch gerne vor Ort in Nürnberg.
 Nach jedem Event schreiben wir Writeups, damit alle etwas davon haben, auch wer gerade nicht dabei war.
 
-<h2 id="members"><code>$ sudo -l #wer darf mitmachen?</code></h2>
+<h3 id="members"><code>$ sudo -l #wer darf mitmachen?</code></h2>
 <details open>
 <summary>Level 0: Noch nie einen CTF gespielt?</summary>
 Perfekt. Du brauchst kein Vorwissen, nur Neugier. Wir zeigen dir die Tools, erklären die Grundlagen und lösen die ersten Aufgaben gemeinsam mit dir.
@@ -38,7 +38,7 @@ Dann spiel mit uns die nächsten Events, spezialisier dich auf eine Kategorie un
 Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erklären ist die beste Art, selbst noch besser zu werden.
 </details>
 
-<h2 id="rules"><code>$ rules.py</code></h2>
+<h3 id="rules"><code>$ rules.py</code></h2>
 
 - [x] Es gibt keine dummen Fragen. Jede:r hat mal angefangen.
 - [x] Reskeptvoller Umgang, egal wer du bist, woher du kommst oder was du kannst.
@@ -46,7 +46,7 @@ Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erkl�
 - [x] Während eines laufenden CTFs werden keine Lösungen nach außen geteilt.
 - [x] Wir halten uns strikt an die [Hacker-Ethik](https://www.ccc.de/hackerethics).
 
-<h2 id="contact"><code>$ ./join.sh</code></h2>
+<h3 id="contact"><code>$ ./join.sh</code></h2>
 
 > [!warning]
 > Unser Discord ist nur auf Einladung, damit dort keine Bots und Spammer landen. Schreib uns kurz, wer du bist, und du bekommst einen Invite.
@@ -57,7 +57,7 @@ Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erkl�
   <li><a class="link" href="https://github.com/NUEpwn" rel="noopener">github</a> Writeups, Tools und Code</li>
 </ul>
 
-<h2 id="faq"><code>man nuepwn</code></h2>
+<h3 id="faq"><code>man nuepwn</code></h2>
 
 <details closed>
   <summary>Was ist ein CTF?</summary>
