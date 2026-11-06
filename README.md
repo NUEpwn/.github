@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <br>
   <img src="./assets/nuepwn-logo.svg" width="600">
 </div>
 
@@ -8,29 +7,28 @@
 <div id="header" align="center">
   <br>
   <h1>Willkommen auf NUEpwn</h1>
+  <br>
 </div>
 
 <h1>Übersicht</h1>
 <br>
 <ul>
-  <li><a hrf="#about">Über uns</a></li>
-  <li><a hrf="#members">Wer darf mitmachen?</a></li>
-  <li><a hrf="#rules">Regeln</a></li>
-  <li><a hrf="#contact">Kontakt</a></li>
-  <li><a hrf="#faq">FAQ</a></li>
+  <li><a href="#about">Über uns</a></li>
+  <li><a href="#members">Wer darf mitmachen?</a></li>
+  <li><a href="#rules">Regeln</a></li>
+  <li><a href="#contact">Kontakt</a></li>
+  <li><a href="#faq">FAQ</a></li>
 </ul>
 
 ---
 
 <h2 id="about"><code>$ whoami</code></h1>
-
 NUEpwn ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
 Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden: Webseiten knacken, Binaries reversen, Kryptografie brechen, Spuren in Speicherabbildern suchen.
 Wir spielen online bei internationalen CTFs mit, treffen uns aber auch gerne vor Ort in Nürnberg.
 Nach jedem Event schreiben wir Writeups, damit alle etwas davon haben, auch wer gerade nicht dabei war.
 
 <h2 id="members"><code>$ sudo -l #wer darf mitmachen?</code></h2>
-
 <details open>
 <summary>Level 0: Noch nie einen CTF gespielt?</summary>
 Perfekt. Du brauchst kein Vorwissen, nur Neugier. Wir zeigen dir die Tools, erklären die Grundlagen und lösen die ersten Aufgaben gemeinsam mit dir.
@@ -47,16 +45,16 @@ Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erkl�
 </details>
 
 <h2 id="rules"><code>$ rules.py</code></h2>
-
-- [ x ] Es gibt keine dummen Fragen. Jede:r hat mal angefangen.
-- [ x ] Reskeptvoller Umgang, egal wer du bist, woher du kommst oder was du kannst.
-- [ x ] Wir hacken nur, was wir dürfen: CTF-Infrastruktur und eigene Testsysteme.
-- [ x ] Während eines laufenden CTFs werden keine Lösungen nach außen geteilt.
-- [ x ] Wir halten uns strikt an die [Hacker-Ethik](https://www.ccc.de/hackerethics).
+[x] Es gibt keine dummen Fragen. Jede:r hat mal angefangen.
+[x] Reskeptvoller Umgang, egal wer du bist, woher du kommst oder was du kannst.
+[x] Wir hacken nur, was wir dürfen: CTF-Infrastruktur und eigene Testsysteme.
+[x] Während eines laufenden CTFs werden keine Lösungen nach außen geteilt.
+[x] Wir halten uns strikt an die [Hacker-Ethik](https://www.ccc.de/hackerethics).
 
 <h2 id="contact"><code>$ ./join.sh</code></h2>
->[!warning]
->Unser Discord ist nur auf Einladung, damit dort keine Bots und Spammer landen. Schreib uns kurz, wer du bist, und du bekommst einen Invite.
+
+> [!warning]
+> Unser Discord ist nur auf Einladung, damit dort keine Bots und Spammer landen. Schreib uns kurz, wer du bist, und du bekommst einen Invite.
 
 <ul class="links">
   <li><a class="link" id="contact" href="#mitmachen" data-u="nuepwn" data-d="tuta.io" data-todo="kontakt"><span class="c-acc">&gt;</span> kontakt <span class="c-muted">Invite für den Discord anfragen</span></a></li>
