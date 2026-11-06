@@ -6,7 +6,6 @@
 ---
 
 <h1>Übersicht</h1>
-<br>
 <ul>
   <li><a href="#about">Über uns</a></li>
   <li><a href="#members">Wer darf mitmachen?</a></li>
@@ -18,7 +17,8 @@
 <h2 id="about"><code>$ whoami</code></h1>
 
 NUEpwn ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
-Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden: Webseiten knacken, Binaries reversen, Kryptografie brechen, Spuren in Speicherabbildern suchen.
+Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden:
+Webseiten knacken, Binaries reversen, Kryptografie brechen, Spuren in Speicherabbildern suchen.
 Wir spielen online bei internationalen CTFs mit, treffen uns aber auch gerne vor Ort in Nürnberg.
 Nach jedem Event schreiben wir Writeups, damit alle etwas davon haben, auch wer gerade nicht dabei war.
 
@@ -52,9 +52,9 @@ Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erkl�
 > Unser Discord ist nur auf Einladung, damit dort keine Bots und Spammer landen. Schreib uns kurz, wer du bist, und du bekommst einen Invite.
 
 <ul class="links">
-  <li><a class="link" id="contact" href="#mitmachen" data-u="nuepwn" data-d="tuta.io" data-todo="kontakt"><span class="c-acc">&gt;</span> kontakt <span class="c-muted">Invite für den Discord anfragen</span></a></li>
-  <li><a class="link" href="https://ctftime.org/team/453738" rel="noopener"><span class="c-acc">&gt;</span> ctftime <span class="c-muted">Unsere Platzierungen und kommende Events</span></a></li>
-  <li><a class="link" href="https://github.com/NUEpwn" rel="noopener"><span class="c-acc">&gt;</span> github <span class="c-muted">Writeups, Tools und Code</span></a></li>
+  <li><a class="link" id="contact" href="#mitmachen" data-u="nuepwn" data-d="tuta.io" data-todo="kontakt">kontakt</a> Invite für den Discord anfragen</li>
+  <li><a class="link" href="https://ctftime.org/team/453738" rel="noopener">ctftime</a> Unsere Platzierungen und kommende Events</li>
+  <li><a class="link" href="https://github.com/NUEpwn" rel="noopener">github</a> Writeups, Tools und Code</li>
 </ul>
 
 <h2 id="faq"><code>man nuepwn</code></h2>
