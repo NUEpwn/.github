@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Willkommen bei NUEpwn_</h1>
+  <h3>Willkommen bei NUEpwn_</h1>
   <img src="../assets/nuepwn-logo.svg" width="600">
 </div>
 
@@ -22,6 +22,8 @@ Webseiten knacken, Binaries reversen, Kryptografie brechen, Spuren in Speicherab
 Wir spielen online bei internationalen CTFs mit, treffen uns aber auch gerne vor Ort in Nürnberg.
 Nach jedem Event schreiben wir Writeups, damit alle etwas davon haben, auch wer gerade nicht dabei war.
 
+---
+
 <h3 id="members"><code>$ sudo -l #wer darf mitmachen?</code></h2>
 <details open>
 <summary>Level 0: Noch nie einen CTF gespielt?</summary>
@@ -38,6 +40,8 @@ Dann spiel mit uns die nächsten Events, spezialisier dich auf eine Kategorie un
 Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erklären ist die beste Art, selbst noch besser zu werden.
 </details>
 
+---
+
 <h3 id="rules"><code>$ rules.py</code></h2>
 
 - [x] Es gibt keine dummen Fragen. Jede:r hat mal angefangen.
@@ -45,6 +49,8 @@ Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erkl�
 - [x] Wir hacken nur, was wir dürfen: CTF-Infrastruktur und eigene Testsysteme.
 - [x] Während eines laufenden CTFs werden keine Lösungen nach außen geteilt.
 - [x] Wir halten uns strikt an die [Hacker-Ethik](https://www.ccc.de/hackerethics).
+
+---
 
 <h3 id="contact"><code>$ ./join.sh</code></h2>
 
@@ -56,6 +62,8 @@ Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erkl�
   <li><a class="link" href="https://ctftime.org/team/453738" rel="noopener">ctftime</a> Unsere Platzierungen und kommende Events</li>
   <li><a class="link" href="https://github.com/NUEpwn" rel="noopener">github</a> Writeups, Tools und Code</li>
 </ul>
+
+---
 
 <h3 id="faq"><code>man nuepwn</code></h2>
 
