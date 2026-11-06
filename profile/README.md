@@ -19,7 +19,7 @@
 <h3 id="about"><code>$ whoami</code></h3>
 
 <p>NUEpwn_ ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
-Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden:<br>
+Bei <strong>CTFs</strong> (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden:<br>
 <ul>
     <li>
 Webseiten knacken
@@ -44,17 +44,17 @@ Nach jedem Event schreiben wir Writeups, damit alle etwas davon haben, auch wer 
 
 <h3 id="members"><code>$ sudo -l #wer darf mitmachen?</code></h2>
 <details open>
-<summary>Level 0: Noch nie einen CTF gespielt?</summary>
+<summary><strong>Level 0:</strong> Noch nie einen CTF gespielt?</summary>
 Perfekt. Du brauchst kein Vorwissen, nur Neugier. Wir zeigen dir die Tools, erklären die Grundlagen und lösen die ersten Aufgaben gemeinsam mit dir.
 </details>
 
 <details open>
-  <summary>Level 1: Schon ein paar Flags gesammelt?</summary>
+  <summary><strong>Level 1:</strong> Schon ein paar Flags gesammelt?</summary>
 Dann spiel mit uns die nächsten Events, spezialisier dich auf eine Kategorie und teil dein Wissen in Writeups.
 </details>
 
 <details open>
-  <summary>Level 1337: Alter Hase?</summary>
+  <summary><strong>Level 1337:</strong> Alter Hase?</summary>
 Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erklären ist die beste Art, selbst noch besser zu werden.
 </details>
 
@@ -83,7 +83,7 @@ Großartig. Hilf uns, schwierige Challenges zu knacken, und nimm Neue mit. Erkl�
 
 ---
 
-<h3 id="faq"><code>man nuepwn</code></h2>
+<h3 id="faq"><code>$ man nuepwn</code></h2>
 
 <details closed>
   <summary>Was ist ein CTF?</summary>
