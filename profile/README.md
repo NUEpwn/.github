@@ -1,7 +1,5 @@
 <div id="header" align="center">
-
-## Willkommen bei NUEpwn_
-
+  <h3>Willkommen bei NUEpwn_</h3>
   <img src="../assets/nuepwn-logo.svg" width="600">
 </div>
 
