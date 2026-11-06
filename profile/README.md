@@ -18,11 +18,27 @@
 
 <h3 id="about"><code>$ whoami</code></h3>
 
-NUEpwn_ ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
-Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden:
-Webseiten knacken, Binaries reversen, Kryptografie brechen, Spuren in Speicherabbildern suchen.
+<p>NUEpwn_ ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
+Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden:<br>
+<ul>
+    <li>
+Webseiten knacken
+    </li>
+    <li>
+Binaries reversen
+    </li>
+    <li>
+Kryptografie brechen
+    </li>
+    <li>
+Spuren in Speicherabbildern suchen
+    </li>
+</ul>
+</p>
+<p>
 Wir spielen online bei internationalen CTFs mit, treffen uns aber auch gerne vor Ort in Nürnberg.
 Nach jedem Event schreiben wir Writeups, damit alle etwas davon haben, auch wer gerade nicht dabei war.
+</p>
 
 ---
 
