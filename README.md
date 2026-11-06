@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Willkommen auf NUEpwn</h1>
+  <h1>Willkommen bei NUEpwn_</h1>
   <img src="./assets/nuepwn-logo.svg" width="600">
 </div>
 
@@ -16,7 +16,7 @@
 
 <h2 id="about"><code>$ whoami</code></h1>
 
-NUEpwn ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
+NUEpwn_ ist eine Gruppe von Leuten aus Nürnberg und Umgebung, die Spaß an IT-Sicherheit haben.
 Bei **CTFs** (Capture the Flag) lösen Teams Hacking-Aufgaben, um versteckte „Flags“ zu finden:
 Webseiten knacken, Binaries reversen, Kryptografie brechen, Spuren in Speicherabbildern suchen.
 Wir spielen online bei internationalen CTFs mit, treffen uns aber auch gerne vor Ort in Nürnberg.
@@ -79,3 +79,9 @@ Nein. Wir spielen vor allem online. Unser Herz schlägt aber in Nürnberg, und T
   <summary>Ist das legal?</summary>
 Ja. Bei CTFs greifen wir ausschließlich Systeme an, die genau dafür gebaut wurden und für die wir die Erlaubnis haben. Echte Systeme ohne Erlaubnis anzugreifen ist tabu. Siehe <a href="https://www.ccc.de/hackerethics">Hacker-Ethik</a>
 </details>
+
+---
+
+<div align="center">
+  &copy; NUEpwn_ · CTF-Team aus Nürnberg · Verein in Vorbereitung
+</div>
